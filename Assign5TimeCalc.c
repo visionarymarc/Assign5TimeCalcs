@@ -2,7 +2,7 @@
 * Marcus Valbrun (R01873916)
 * CSC343 Operations Systems
 
-* Assignment 4 Question 4
+* Assignment 5 Question 4
 - Write a program (c++ or java) that computes turnaround time 
 - and average wait time for the processes listed in Q2 for FCFS and SJF scheduling 
 
