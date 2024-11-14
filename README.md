@@ -1,4 +1,4 @@
-# Assign4TimeCalc
+# Assign5TimeCalc
 
 ## Author
 - Marcus Valbrun
